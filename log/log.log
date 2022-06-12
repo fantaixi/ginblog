@@ -1,0 +1,2 @@
+time="2022-06-10T20:39:29+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=198 HostName=DESKTOP-8N8A7II IP=127.0.0.1 Method=POST Path=/api/v1/login SpendTime="996 ms" status=200
+time="2022-06-10T20:39:46+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=198 HostName=DESKTOP-8N8A7II IP=127.0.0.1 Method=POST Path=/api/v1/login SpendTime="870 ms" status=200
